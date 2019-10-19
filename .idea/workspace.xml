@@ -1,22 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c74025f9-a367-4ebe-b49a-6c8001ffc67a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/JS.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS学习/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS学习/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS学习/定时器.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS学习/定时器.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS学习/延时提示框.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS学习/延时提示框.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS学习/无缝滚动.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS学习/无缝滚动.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS学习/时钟.html" afterDir="false" />
+    <list default="true" id="c74025f9-a367-4ebe-b49a-6c8001ffc67a" name="Default Changelist" comment="DAY2">
+      <change afterPath="$PROJECT_DIR$/JS学习/images/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS学习/images/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS学习/images/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS学习/images/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS学习/images/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS学习/images/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS学习/images/btn.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS学习/images/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS学习/li排序.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS学习/li排序.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS学习/move.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS学习/任意值运动框架.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS学习/任意值运动框架.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS学习/仿FLASH的图片轮换.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS学习/仿FLASH的图片轮换.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS学习/仿FLASH的图片轮换.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS学习/分享到.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS学习/分享到.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS学习/匀速运动停止.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS学习/匀速运动停止.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS学习/右侧悬浮框.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS学习/右侧悬浮框.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS学习/多个div淡入淡出.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS学习/多个div淡入淡出.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS学习/多物体运动.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS学习/多物体运动变宽.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS学习/淡入淡出.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS学习/淡入淡出.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS学习/缓冲运动.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS学习/缓冲运动.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS学习/表单事件.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS学习/表单事件.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS学习/表格排序.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS学习/表格排序.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS学习/运动.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS学习/运动基础.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS学习/表格搜索.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS学习/表格搜索.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS学习/表格添加、删除.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS学习/表格添加、删除.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,14 +48,41 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1SKqfFI7HiNtvWkMaT9iheFM4s3" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/JS学习" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.JavaScript" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\JS\JS学习\JS学习" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -56,7 +107,18 @@
       <option name="presentableId" value="Default" />
       <updated>1571322735635</updated>
       <workItem from="1571322736885" duration="297000" />
+      <workItem from="1571370472582" duration="1372000" />
+      <workItem from="1571404658228" duration="9581000" />
+      <workItem from="1571451910200" duration="37514000" />
     </task>
+    <task id="LOCAL-00001" summary="DAY2">
+      <created>1571414144268</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1571414144268</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -67,10 +129,16 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="DAY2" />
+    <option name="LAST_COMMIT_MESSAGE" value="DAY2" />
   </component>
 </project>

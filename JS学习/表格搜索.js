@@ -10,6 +10,7 @@ window.onload = function () {
             var sTab = oTab.tBodies[0].rows[i].cells[1].innerHTML.toLowerCase();
             var sTxt = oName.value.toLowerCase();
             var arr = sTxt.split(" ");
+            oTab.tBodies[0].rows[i].style.display = "none";
 
             /*模糊搜索
             if (sTab.search(sTxt) != -1) {
@@ -21,8 +22,15 @@ window.onload = function () {
         } */
             oTab.tBodies[0].rows[i].style.background = "";
             for ( var j = 0; j < arr.length; j ++) {
-                if (sTab.search(arr[j]) != -1) {
+                if (sTab.search(arr[j]) !== -1) {
+
+                    //高亮显示
+
                     oTab.tBodies[0].rows[i].style.background = "red";
+
+                    //筛选
+
+                    oTab.tBodies[0].rows[i].style.display = "block";
                 }
             }
         }

@@ -27,5 +27,5 @@ window.onload = function () {
         oTd3.getElementsByTagName("a")[0].onclick = function () {
           oTab.tBodies[0].removeChild(this.parentNode.parentNode);
         };
-    }
+    };
 };
