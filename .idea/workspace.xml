@@ -1,46 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c74025f9-a367-4ebe-b49a-6c8001ffc67a" name="Default Changelist" comment="DAY2">
-      <change afterPath="$PROJECT_DIR$/JS学习/images/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS学习/images/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS学习/images/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS学习/images/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS学习/images/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS学习/images/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS学习/images/btn.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS学习/images/loading.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS学习/li排序.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS学习/li排序.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS学习/move.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS学习/任意值运动框架.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS学习/任意值运动框架.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS学习/仿FLASH的图片轮换.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS学习/仿FLASH的图片轮换.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS学习/仿FLASH的图片轮换.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS学习/分享到.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS学习/分享到.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS学习/匀速运动停止.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS学习/匀速运动停止.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS学习/右侧悬浮框.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS学习/右侧悬浮框.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS学习/多个div淡入淡出.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS学习/多个div淡入淡出.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS学习/多物体运动.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS学习/多物体运动变宽.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS学习/淡入淡出.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS学习/淡入淡出.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS学习/缓冲运动.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS学习/缓冲运动.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS学习/表单事件.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS学习/表单事件.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS学习/表格排序.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS学习/表格排序.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS学习/运动.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS学习/运动基础.html" afterDir="false" />
+    <list default="true" id="c74025f9-a367-4ebe-b49a-6c8001ffc67a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/JS学习/Move.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS学习/完美运动.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS学习/完美运动.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS学习/表格搜索.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS学习/表格搜索.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS学习/表格添加、删除.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS学习/表格添加、删除.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS学习/move.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS学习/change.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS学习/仿FLASH的图片轮换.css" beforeDir="false" afterPath="$PROJECT_DIR$/JS学习/仿FLASH的图片轮换.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS学习/仿FLASH的图片轮换.html" beforeDir="false" afterPath="$PROJECT_DIR$/JS学习/仿FLASH的图片轮换.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS学习/仿FLASH的图片轮换.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS学习/仿FLASH的图片轮换.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,9 +20,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="HTML File" />
         <option value="JavaScript File" />
-        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -109,7 +78,8 @@
       <workItem from="1571322736885" duration="297000" />
       <workItem from="1571370472582" duration="1372000" />
       <workItem from="1571404658228" duration="9581000" />
-      <workItem from="1571451910200" duration="37514000" />
+      <workItem from="1571451910200" duration="37666000" />
+      <workItem from="1571541405131" duration="17928000" />
     </task>
     <task id="LOCAL-00001" summary="DAY2">
       <created>1571414144268</created>
@@ -118,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571414144268</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="DAY3">
+      <created>1571497861534</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1571497861534</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,6 +116,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="DAY2" />
-    <option name="LAST_COMMIT_MESSAGE" value="DAY2" />
+    <MESSAGE value="DAY3" />
+    <option name="LAST_COMMIT_MESSAGE" value="DAY3" />
   </component>
 </project>

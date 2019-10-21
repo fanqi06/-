@@ -6,7 +6,7 @@ function getStyle(obj,name) {
         return getComputedStyle(obj,false)[name];
     }
 }
-function change(obj,iTarget,attr) {
+function change(obj,iTarget,attr,endFunc) {
     clearInterval(obj.timer);
     obj.timer = setInterval(function () {
         var cur = 0;
@@ -20,6 +20,7 @@ function change(obj,iTarget,attr) {
         speed=speed>0?Math.ceil(speed):Math.floor(speed);
         if (cur == iTarget) {
             clearInterval(obj.timer);
+            if (endfunc) endFunc();
         }
         else {
             if (attr == "opacity") {
