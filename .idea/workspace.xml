@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c74025f9-a367-4ebe-b49a-6c8001ffc67a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/JS学习/String 类型.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS学习/String类型.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS学习/动态原型模式.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS学习/动态原型模式.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS学习/继承.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS学习/继承.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS学习/let.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS学习/let.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -81,7 +77,8 @@
       <workItem from="1571541405131" duration="17928000" />
       <workItem from="1571619706040" duration="2484000" />
       <workItem from="1572056323311" duration="7807000" />
-      <workItem from="1572154072973" duration="2556000" />
+      <workItem from="1572154072973" duration="2791000" />
+      <workItem from="1572699529462" duration="1679000" />
     </task>
     <task id="LOCAL-00001" summary="DAY2">
       <created>1571414144268</created>
@@ -104,7 +101,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571619769236</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="DAY6">
+      <created>1572168019094</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1572168019094</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,6 +131,7 @@
     <MESSAGE value="DAY2" />
     <MESSAGE value="DAY3" />
     <MESSAGE value="DAY4" />
-    <option name="LAST_COMMIT_MESSAGE" value="DAY4" />
+    <MESSAGE value="DAY6" />
+    <option name="LAST_COMMIT_MESSAGE" value="DAY6" />
   </component>
 </project>
